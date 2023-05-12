@@ -4,7 +4,11 @@
 数据集：PolyU、CASIA、Tongji。
 
 ## PolyU：
-### ROI提取图像结果：
+   参考资料：https://blog.csdn.net/cmen/article/details/7708477
+   [1]      D. Zhang, W.K. Kong, J. You, M. Wong. “On-line palmprint identification”,IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 25, no. 9, pp. 1041-1050,  2003.
+   [2]      Feng Yue, Wangmeng Zuo, David Zhang, Kuanquan Wang. “Orientation selection using modified FCM for competitive coding-based palmprint recognition”,Pattern Recognition, vol. 42, no. 11, 2841-2849, 2009
+
+### ROI修改方法和最终实验结果：
 
 <img width="779" alt="image" src="https://github.com/tanzlyn/ROI-for-palm/assets/92300391/0ff66358-a372-4210-9e61-966da47bc740">
 
