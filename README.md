@@ -23,6 +23,12 @@
 
    <img width="275" alt="image" src="https://github.com/tanzlyn/ROI-for-palm/assets/92300391/b563c660-8d73-4288-8fca-7886e948f897">
 
-    
+
+## CASIA
+      参考资料：https://github.com/yyaddaden/PROIE
+
+### 结果展示：
+<img width="628" alt="1692261862825" src="https://github.com/tanzlyn/ROI-for-palm/assets/92300391/094ff238-feda-4b23-8aed-7b0048667365">
+
 
 
